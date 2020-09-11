@@ -1,0 +1,9 @@
+.\obj\elog.o: ..\..\..\tuya_ble_lock_sdk\src\cpt\easylogger\src\elog.c
+.\obj\elog.o: ..\..\..\tuya_ble_lock_sdk\src\cpt\easylogger\inc\elog.h
+.\obj\elog.o: ..\..\..\tuya_ble_lock_sdk\src\cpt\easylogger\inc\elog_cfg.h
+.\obj\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

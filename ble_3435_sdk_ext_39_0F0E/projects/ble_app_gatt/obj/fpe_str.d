@@ -1,0 +1,10 @@
+.\obj\fpe_str.o: ..\..\..\tuya_ble_lock_sdk\src\cpt\fpe_tuya\fpe_str.c
+.\obj\fpe_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\fpe_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\fpe_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\fpe_str.o: ..\..\..\tuya_ble_lock_sdk\src\cpt\fpe_tuya\fpe_str.h
+.\obj\fpe_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\fpe_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\fpe_str.o: ..\..\..\tuya_ble_lock_sdk\src\cpt\fpe_tuya\ff1_common.h
+.\obj\fpe_str.o: ..\..\..\tuya_ble_lock_sdk\src\cpt\fpe_tuya\fpe_config.h
+.\obj\fpe_str.o: ..\..\..\tuya_ble_lock_sdk\src\tuya_ble_sdk\include\tuya_ble_heap.h
